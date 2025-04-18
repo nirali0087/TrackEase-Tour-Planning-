@@ -15,13 +15,9 @@ HTML5: Structure and content of the web pages.
 CSS3: Styling and layout, including responsive design elements.
 
 JavaScript: Interactive features and dynamic content manipulation.
-_____________________________________________________________________________________________________________________________________________
-📁 Project Structure
-TrackOn-Tour-Planning-/
-![image](https://github.com/user-attachments/assets/fe1e47ed-ad57-4ab0-8be6-92a008629cb6)
-
 ____________________________________________________________________________________________________________________________________________
 📸 Screenshots
+
 ![image](https://github.com/user-attachments/assets/6172b259-c561-4487-9a27-562274f920e0)
 ![image](https://github.com/user-attachments/assets/e9bb339e-551a-463e-a31c-0ffe72ba528b)
 ![image](https://github.com/user-attachments/assets/a9f9aef9-d3a6-4de6-a691-8af2e36bc899)
