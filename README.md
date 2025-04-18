@@ -18,11 +18,8 @@ JavaScript: Interactive features and dynamic content manipulation.
 _____________________________________________________________________________________________________________________________________________
 📁 Project Structure
 TrackOn-Tour-Planning-/
-├── index.html        # Main HTML file
-├── style.css         # Primary stylesheet
-├── media.css         # Responsive design styles
-├── app.js            # JavaScript for interactivity
-├── img/              # Directory for images
+![image](https://github.com/user-attachments/assets/fe1e47ed-ad57-4ab0-8be6-92a008629cb6)
+
 ____________________________________________________________________________________________________________________________________________
 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/6172b259-c561-4487-9a27-562274f920e0)
